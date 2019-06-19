@@ -12,11 +12,7 @@ import org.kohsuke.MetaInfServices;
 
 import javax.annotation.Resource;
 
-/**
- * @Author: eclair
- * @Description:
- * @Date: 2019/6/19
- */
+
 @MetaInfServices(Module.class)
 @Information(id = "my-first-sandbox")
 public class TestSpringConfigModule implements Module {
